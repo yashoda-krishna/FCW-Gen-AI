@@ -1,0 +1,6 @@
+fcn-model.h5
+u-net-model.h5
+road_segmentation_ep-66.h5
+not-to-upload/
+__pycache__/
+.ipynb_checkpoints/
